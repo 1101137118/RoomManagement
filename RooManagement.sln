@@ -1,14 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Web
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuasWebApp", "KuasWebApp\KuasWebApp.csproj", "{9190DDA9-6168-4E6D-AAD6-15E7E38C3C08}"
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomWebApp", "KuasWebApp\RoomWebApp.csproj", "{9190DDA9-6168-4E6D-AAD6-15E7E38C3C08}"
 	ProjectSection(ProjectDependencies) = postProject
 		{C4BBCE56-ECD7-494C-9731-5093F529DF69} = {C4BBCE56-ECD7-494C-9731-5093F529DF69}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuasCore", "KuasCore\KuasCore.csproj", "{C4BBCE56-ECD7-494C-9731-5093F529DF69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomCore", "KuasCore\RoomCore.csproj", "{C4BBCE56-ECD7-494C-9731-5093F529DF69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuasCoreTests", "KuasCoreTests\KuasCoreTests.csproj", "{D1E916CA-F60B-4A04-9F79-4E0A6392277A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomCoreTests", "KuasCoreTests\RoomCoreTests.csproj", "{D1E916CA-F60B-4A04-9F79-4E0A6392277A}"
 	ProjectSection(ProjectDependencies) = postProject
 		{C4BBCE56-ECD7-494C-9731-5093F529DF69} = {C4BBCE56-ECD7-494C-9731-5093F529DF69}
 	EndProjectSection

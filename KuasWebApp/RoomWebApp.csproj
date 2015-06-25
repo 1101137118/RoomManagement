@@ -161,9 +161,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\KuasCore\KuasCore.csproj">
+    <ProjectReference Include="..\KuasCore\RoomCore.csproj">
       <Project>{c4bbce56-ecd7-494c-9731-5093f529df69}</Project>
-      <Name>KuasCore</Name>
+      <Name>RoomCore</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
